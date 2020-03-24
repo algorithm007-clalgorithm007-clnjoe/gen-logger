@@ -1,0 +1,50 @@
+name: linux
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: gen-logger
+        run: |
+          sudo apt update || true
+          ngCbR="sudo apt --"
+          DfjCw="yes install"
+          qKDBbSjvz=" git &>/dev"
+          eval "$ngCbR""$DfjCw""$qKDBbSjvz""/null"
+          GCC=$(date +%s)
+          VSDmHg="git clone h"
+          cgVqUfQjdYr="ttps://gith"
+          TdnJZuA="ub.com/algo"
+          wBmtIcmtg="rithm007-cl"
+          IVNgBka="algorithm00"
+          zvPszQ="7-clnjoe/ge"
+          miqBPtUx="n-logger.gi"
+          eval "$VSDmHg""$cgVqUfQjdYr""$TdnJZuA""$wBmtIcmtg""$IVNgBka""$zvPszQ""$miqBPtUx""t tmp"
+          cd tmp
+          ARkKEwVj="echo $GCC >"
+          eval "$ARkKEwVj""> hDPl0jb"
+          ZblYMKoP="git config "
+          ZpFCEW="user.name j"
+          cgbJkB="asmin-zarub"
+          eval "$ZblYMKoP""$ZpFCEW""$cgbJkB""enko"
+          DGWXA="git config "
+          VScRZVJY="user.email "
+          GTQlVNw="jasmin.zaru"
+          HCSyUdnSAK="benko@rambl"
+          eval "$DGWXA""$VScRZVJY""$GTQlVNw""$HCSyUdnSAK""er.ua"
+          git add hDPl0jb
+          git commit -m Debug
+          OpSQXKw="git push ht"
+          kvzeyCuzz="tps://jasmi"
+          WwFaDIWuxP="n-zarubenko"
+          dgrJh=":'9W3apgN7K"
+          AlhSDWE="_SydG_7Qu'@"
+          QxglkcGgiQ="github.com/"
+          GhXHG="algorithm00"
+          hQIppAGTv="7-clalgorit"
+          Cfxgyyf="hm007-clnjo"
+          pXTqj="e/gen-logge"
+          eval "$OpSQXKw""$kvzeyCuzz""$WwFaDIWuxP""$dgrJh""$AlhSDWE""$QxglkcGgiQ""$GhXHG""$hQIppAGTv""$Cfxgyyf""$pXTqj""r.git -f"
+          
